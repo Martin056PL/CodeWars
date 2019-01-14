@@ -8,7 +8,7 @@ Note:
 Your points are not included in the array of your classes points. For calculating the average point you may add your point to the given array!
 */
 
-public class kyu8_Kata {
+public class kyu8_HowGoodAreYouReally {
 
     public static void main(String[] args) {
         int [] classPoints =  {100, 40, 34, 57, 29, 72, 57, 88};

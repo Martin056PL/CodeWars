@@ -1,4 +1,4 @@
-/*My friend John likes to go to the cinema. He can choose between system A and system B.
+package javaFiles;/*My friend John likes to go to the cinema. He can choose between system A and system B.
 
 System A : buy a ticket (15 dollars) every time
 System B : buy a card (500 dollars) and every time

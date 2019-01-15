@@ -1,4 +1,4 @@
-/*When provided with a number between 0-9, return it in words.
+package javaFiles;/*When provided with a number between 0-9, return it in words.
 
 Input :: 1
 

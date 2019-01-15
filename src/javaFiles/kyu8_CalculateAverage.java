@@ -1,4 +1,4 @@
-// Write function avg which calculates average of numbers in given list.
+package javaFiles;// Write function avg which calculates average of numbers in given list.
 
 public class kyu8_CalculateAverage {
 

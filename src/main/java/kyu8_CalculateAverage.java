@@ -1,5 +1,3 @@
-package javaFiles;// Write function avg which calculates average of numbers in given list.
-
 public class kyu8_CalculateAverage {
 
     public static void main(String[] args) {

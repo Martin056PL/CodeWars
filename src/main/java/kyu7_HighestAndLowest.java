@@ -13,8 +13,6 @@ Notes:
     Output string must be two numbers separated by a single space, and highest number is first.
 */
 
-package javaFiles;
-
 public class kyu7_HighestAndLowest {
 
     public static void main(String[] args) {
